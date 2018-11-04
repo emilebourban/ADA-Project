@@ -3,7 +3,7 @@
 # Abstract
 A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project? 
 
-In the recent century, in a lot of country, women have finally gained more rights and we have been continuously progressing towards a more euqal society. Our goal in this project is to try  to highlight the evolution of social gender inequalities in different domains through the ages. We will use the data from wikipedia and 
+In the recent century, in a lot of country, women have finally gained more rights and we have been continuously progressing towards a more euqal society. Our goal in this project is to try  to highlight the evolution of social gender inequalities in different domains through the ages. We will use the data from wikipedia and gather data on number of women referenced, their contribution to their domain, and other parameters and compare it with the same data for men. 
 
 # Research questions
 A list of research questions you would like to address during the project. 
