@@ -40,4 +40,4 @@ We will filter the pages to extract a "list" of the influential people divided i
 # Questions for TAa
 - Doest the scope of the project seem correct?
 - How to use the cluster?
-- Do you know any useful github project that we couzld use?
+- Do you know any useful github project that we could use?
