@@ -1,7 +1,7 @@
 # Evolution of women's recognition over time using Wikipedia data for influencing people
 
 # Abstract
-In the recent century, in a lot of countries, women have finally gained more rights and we have been continuously progressing towards a more equal society. Our goal in this project is to try to highlight the evolution of social gender inequalities in different domains through the ages. Our interest is on the achievements and recognition of the work done by women in different fields as far back as the data goes. We will use the data from Wikipedia and gather data on number of women referenced, their contribution to their domain, and other parameters and compare it with the same data for men. We will also try to find how the contry of origin and the time of acquisition of the rights has an significant impact.
+In the recent century, in a lot of countries, women have finally gained more rights and we have been continuously progressing towards a more equal society. Our goal in this project is to try to highlight the evolution of social gender inequalities in different domains through the ages. Our interest is on the achievements and recognition of the work done by women in different fields as far back as the data goes. We will use the data from Wikipedia and gather data on number of women referenced, their contribution to their domain, and other parameters and compare it with the same data for men. We will also try to find how the country of origin and the time of acquisition of the rights has an significant impact.
 
 # Research questions
 - Can we accurately use wikipedia database to show the gender inequalities through time?
