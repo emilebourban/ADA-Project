@@ -13,8 +13,8 @@ In the recent century, in a lot of countries, women have finally gained more rig
 # Dataset
 Wikipedia Data: wikimedia dumps https://dumps.wikimedia.org/
 The data dump is in XML which can be parsed using existing tools. They can also be imported in SQL for easier data querying.
-There is already projects on github that we could use to guide us for the data analysis that use he same dataset.
-We will filter the pages to extract a "list" of the influential people divided into categories corresponding to what they are famous for. Then we can divide the data by genre, nationality and the period they lived in for further conclusions.
+There are already some existing projects on github that use he same dataset that we could use to guide us for the data analysis.
+We will filter the pages to extract a "list" of the influential people divided into categories corresponding to what they are famous for. Then we can divide the data by gender, nationality and the period they lived in for further conclusions.
 
 # A list of internal milestones up until project milestone 2
 11.11
