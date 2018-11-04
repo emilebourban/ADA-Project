@@ -21,13 +21,19 @@ We will filter the pages to extract a "list" of the influential people divided i
 - Download the required data
 - Undestard how to use the cluster to manipulate our data
 - Understand the structure of the data from wikipedia
+
+
 13.11
 - Sort the data so as to keep only what is usefull to us
 - Clean the data and convert it to an easily usable format
 - Define what parameters we will use to quantify gender equality
+
+
 20.11
 - Analyze the data collected
 - Think about the best visualisation for the data
+
+
 23.11
 - Cleanup the coede and proof reading the report.
 
