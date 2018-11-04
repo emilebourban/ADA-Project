@@ -28,5 +28,5 @@ Add here a sketch of your planning for the next project milestone.
 
 # Questions for TAa
 Add here some questions you have for us, in general or project-specific.
-- Doest the scope of the project seem correct.
+- Does the scope of the project seem correct.
 - How to use the cluster 
