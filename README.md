@@ -7,7 +7,7 @@ In the recent century, in a lot of countries, women have finally gained more rig
 - Can we accurately use wikipedia database to show the gender inequalities through time?
 - Are there any evidence that the men/women equality is reached?
 - What are the domains in which there is more/less equality? Does this change according to regions/country/language?
-- What is the effect of women emowering events: Right to work, Sufragettes, War effort, ...?
+- What is the effect of women empowering events: Right to work, Sufragettes, War effort, ...?
 - Since some countries have delayed women's rights, is the evolution similar, in term of timeframe, extent?
 
 # Dataset
