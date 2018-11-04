@@ -35,7 +35,7 @@ We will filter the pages to extract a "list" of the influential people divided i
 
 
 23.11
-- Cleanup the coede and proof reading the report.
+- Cleanup the code and proof reading the report.
 
 # Questions for TAa
 - Doest the scope of the project seem correct.
