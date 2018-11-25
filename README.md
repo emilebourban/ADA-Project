@@ -50,5 +50,5 @@ We will filter the pages to extract a "list" of the influential people divided i
 - Finish report
 
 # Questions for TAa
-- How can we read the wikidata.json.bz2 file on the cluster. There seems to be a probleme with the bz2 module.
+- How can we read the wikidata.json.bz2 file with a python script on the cluster. There seems to be a probleme with the bz2 module.
 
