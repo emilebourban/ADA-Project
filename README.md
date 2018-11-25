@@ -7,7 +7,6 @@ In the recent century, in a lot of countries, women have finally gained more rig
 - Can we accurately use wikipedia database to show the gender inequalities through time?
 - Are there any evidence that the men/women equality is reached?
 - What are the domains in which there is more/less equality? Does this change according to regions/country/language?
-- What is the effect of women empowering events: Right to work, Sufragettes, War effort, ...?
 - Since some countries have delayed women's rights, is the evolution similar, in term of timeframe, extent?
 
 # Dataset
@@ -37,7 +36,19 @@ We will filter the pages to extract a "list" of the influential people divided i
 23.11
 - Cleanup the code and proof reading the report.
 
+# A list of internal milestones up until project milestone 3
+01.12
+- Extract all human entities from wikidata with json script
+- Clean this data to repeat analysis
+- Start to redo the analysis more in depth with new data 
+
+08.12 
+- Finish analysis and clean the code 
+- start the report 
+
+16.12 
+- Finish report
+
 # Questions for TAa
-- Doest the scope of the project seem correct?
-- How to use the cluster?
-- Do you know any useful github project that we could use?
+- How can we read the wikidata.json.bz2 file on the cluster. There seems to be a probleme with the bz2 module.
+
