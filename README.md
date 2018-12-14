@@ -49,7 +49,7 @@ We will filter the pages to extract a "list" of the influential people divided i
 16.12 
 - Finish report
 
-# Contribution of each manber and road map until presentation
+# Contribution of each member and road map until presentation
 Florian: First part to show differences across cultures. Emile: Parsing the JSON and analysis across fields of work.
 We will both work for the final poster before ML4
 
