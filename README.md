@@ -52,7 +52,3 @@ We will filter the pages to extract a "list" of the influential people divided i
 # Contribution of each member and road map until presentation
 Florian: First part to show differences across cultures. Emile: Parsing the JSON and analysis across fields of work.
 We will both work for the final poster before ML4
-
-# Questions for TAs
-- How can we read the wikidata.json.bz2 file with a python script on the cluster. There seems to be a probleme with the bz2 module.
-
